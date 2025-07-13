@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center" width="180">
-      <img src="./assets/ChatATPIcon-removebg-preview.png" alt="ChatATP Logo" width="180">
+      <img src="/assets/ChatATPIcon-removebg-preview.png" alt="ChatATP Logo" width="180">
     </td>
     <td>
       <h1 style="font-size: 2.5rem; margin-bottom: 0;">ChatATP</h1>
