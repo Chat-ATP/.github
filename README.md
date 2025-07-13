@@ -1,4 +1,20 @@
-# 🧠 ChatATP
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="./assets/ChatATPIcon-removebg-preview.png" alt="ChatATP Logo" width="180">
+    </td>
+    <td>
+      <h1 style="font-size: 2.5rem; margin-bottom: 0;">ChatATP</h1>
+      <p style="font-size: 1.2rem; margin-top: 0;">
+        <strong>Empowering LLMs with real-world tools through the Agent Tool Protocol.</strong>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+# ChatATP
 
 **Empowering LLMs with Toolkits as Capabilities.**
 
